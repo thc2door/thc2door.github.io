@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_2349",
-    "currentPage": "page9.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 39,
+    "uniqCompNum": 43,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -124,7 +124,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -263,7 +263,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Product",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -475,7 +475,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -488,7 +488,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "VIP",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -608,7 +608,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -621,7 +621,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Contact",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -755,7 +755,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -768,7 +768,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "KushyPunch",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -897,7 +897,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -910,7 +910,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "SmartBud",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1039,7 +1039,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -1052,7 +1052,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Winberry AIO",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1189,7 +1189,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -1202,7 +1202,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "TKO",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1335,7 +1335,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -1348,7 +1348,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "PunchBar",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1477,7 +1477,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
@@ -1490,7 +1490,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Order",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1587,12 +1587,140 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CaliPlug</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
           "_anchor": "menu-12"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "About us",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#33834a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3d9d59!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#41a85f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#41a85f",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">How to Order</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">About us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">Contact</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/marijuana-addiction-drug-fun-leaf-512-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THC2DOOR</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "About us",
+          "meta": "Inovation, reliability, access",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are Cannabis vendor based in California with access to vast networks within the in<span style=\"font-size: 1.07rem;\">dustry. </span></p><p><span style=\"font-size: 1.07rem;\">We offer competitive price and service because we have reliable supply. Our products are from the same source as licenced dispensaries.&nbsp;</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16"
         }
       ]
     }
